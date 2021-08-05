@@ -1,1 +1,1 @@
-# blood
+# The Blood resurrection project
